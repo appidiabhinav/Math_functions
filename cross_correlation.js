@@ -11,8 +11,6 @@
 * 	http://paulbourke.net/miscellaneous/correlate/
 */
 
-//NOTE: THIS CODE HAS NOT BEEN TESTED AND PROBABLY HAS SOME ERRORS. THIS NOTE WILL BE REMOVED ONCE TESTED.
-
 function InputException(message) {
    this.message = message;
    this.name = "InputException";

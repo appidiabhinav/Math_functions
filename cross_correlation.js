@@ -1,5 +1,4 @@
 /*
-* Author: Chris Garry
 * Description:
 *	Implements cross-correlation of series x and y as defined by
 *
